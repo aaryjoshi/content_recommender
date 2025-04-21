@@ -52,5 +52,4 @@ A **content-based movie recommender** that suggests similar movies based on meta
 
 1. **Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/movie-recommender.git
-cd movie-recommender
+git clone https://github.com/aaryjoshi/content_recommender.git
