@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System
 
-A **content-based movie recommender** that suggests similar movies based on metadata such as genres, cast, and keywords. Built with Python using **Pandas**, **Scikit-learn**, and **Cosine Similarity**, and equipped with an interactive interface for personalized movie discovery.
+A **content-based movie recommender** that suggests similar movies based on metadata such as genres, actors,cast, and keywords. Built with Python using **Pandas**, **Scikit-learn**, and **Cosine Similarity**, and equipped with an interactive interface for personalized movie discovery.
 
 ---
 
